@@ -5,6 +5,9 @@ Agriculture is the cultivation of land and raising of crops to produce food. It 
 In the past, diagnosis of plant diseases was done by observing the symptoms of a diseased plant. However, with the advent of artificial intelligence and its application to agriculture, it becomes important to make pertinent research in this area. With the use of image processing and deep learning algorithms, it is now possible to diagnose a plant disease by using a picture taken from a smartphone.
 The advancement of agricultural technology has made it possible to grow more crops with limited resources. However, the increase in the population of the world is constantly increasing the demand for more food. One way to meet this demand is to use artificial intelligence in diagnosing plant diseases and using that information to more efficiently grow food.
 
+# YOU CAN DOWNLOAD THE PLANT VILLAGE DATA SET FROM KAGGEL USING THIS LINK.
+
+https://www.kaggle.com/emmarex/plantdisease
 
 # Dee learning Library and algorithms i used in this project
 
