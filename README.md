@@ -9,6 +9,14 @@ The advancement of agricultural technology has made it possible to grow more cro
 
 https://www.kaggle.com/emmarex/plantdisease
 
+# WORK DONW IN THIS PROJECT
+
+1. data pre-processing
+2. data resizeing
+3. data augmentation
+4. CNN
+5. VGG-16 
+
 # Dee learning Library and algorithms i used in this project
 
 1. CNN 
